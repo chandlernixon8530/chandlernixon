@@ -1,0 +1,18 @@
+h1 {
+  color: Black;
+}
+
+
+.container {
+  background-color: Red;
+}
+
+
+  body {
+    background-color: #00FF00;
+  }
+
+  li {
+  display: inline;
+  background-image: url(https://www.publicdomainpictures.net/pictures/240000/velka/red-and-green-wave-pattern.jpg);
+}
