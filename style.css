@@ -16,3 +16,19 @@ h1 {
   display: inline;
   background-image: url(https://www.publicdomainpictures.net/pictures/240000/velka/red-and-green-wave-pattern.jpg);
 }
+
+.login {
+float: right;
+}
+
+.login a {
+  cursor: pointer;
+  margin-right: 30px;
+  border-style: solid;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+}
+.login a:active {
+  top: 5px;
+}
