@@ -33,14 +33,14 @@ float: right;
   top: 5px;
 }
 
-#red.html {
+#red {
   background-image: url("./images/redpic1.jpg");
 }
 
-#green.html {
+#green {
   background-image: url("./images/greenpic.jpg");
 }
 
-#black.html {
+#black {
   background-image: url("./images/blackpic1.jpg");
 }
