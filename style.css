@@ -32,3 +32,15 @@ float: right;
 .login a:active {
   top: 5px;
 }
+
+#Red {
+  background-image: url("./images/redpic1.jpg");
+}
+
+#Green {
+  background-image: url("./images/greenpic.jpg");
+}
+
+#Black {
+  background-image: url("./images/blackpic1.jpg");
+}
