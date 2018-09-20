@@ -2,14 +2,12 @@ h1 {
   color: Black;
 }
 
-
 .container {
-  background-color: Red;
+  background-color: Red
 }
 
-
   body {
-    background-color: #00FF00;
+    background-color: Gray;
   }
 
   li {
